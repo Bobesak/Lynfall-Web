@@ -37,6 +37,7 @@ body {
     width: 280px;
     height: 180px;
     padding: 10px;
+    border-radius: 500px;
 
 }
 .logooutline{
@@ -49,13 +50,59 @@ body {
 .LynfallText{
 
     font-family: "Florante", sans-serif;
-    font-size:120px;
+    font-size: 120px;
     margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 0;
 
 }
 .textbox{
     width: 100%;
     height: 200px;
     padding-top: 30px;
+    padding-bottom: 30px;
 
 }
+.odstavec1{
+    display: block;
+    width: 400px;
+    font-family: "Florante", sans-serif;
+    text-align: center;
+    justify-content: center;
+    background-color: #383a3b;
+    border-radius: 10px;
+    margin: 0;
+    margin-left: 50px;
+
+}
+.Sneaks{
+    background-color: #383a3b;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+    padding-top: 25px;
+}
+.Sneakstext {
+    font-family: "Florante", sans-serif;
+    text-align: center;
+    font-size: 80px;
+    margin: 0;
+}
+.sneaksbg{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 35px;
+}
+.picbg{
+    background: gray;
+    border-radius: 15px;
+    width: 50%;
+    height: 500px;
+    margin: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 15px;
+    justify-content: center;
+}
+
