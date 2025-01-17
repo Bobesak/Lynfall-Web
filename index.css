@@ -65,14 +65,14 @@ body {
 }
 .odstavec1{
     display: block;
-    width: 400px;
+    width: 50%;
     font-family: "Florante", sans-serif;
     text-align: center;
-    justify-content: center;
     background-color: #383a3b;
     border-radius: 10px;
     margin: 0;
-    margin-left: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
 
 }
 .Sneaks{
